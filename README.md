@@ -11,7 +11,7 @@ Website: https://vesperagent.sbs
 | `vesper-logo-transparent.png` | 1024×1024 | The rounded tile on a transparent background |
 | `vesper-lockup.png` | 1523×300 | Tile and name, transparent, for dark backgrounds |
 | `vesper-banner-1500x500.png` | 1500×500 | X header |
-| `vesper-wing.png` | 1024×1024 | Winged V emblem on its dark ground, with the name |
+| `vesper-wing.png` | 1024×1024 | Winged V emblem on its dark ground |
 | `vesper-wing-transparent.png` | 1024×1024 | Winged V emblem on a transparent background |
 | `vesper-wing.svg` | vector | Winged V emblem, any size |
 
